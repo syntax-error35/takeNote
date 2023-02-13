@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">Take Note</string>
+    <string name="facebook_app_id">589962745817369</string>
+    <string name="fb_login_protocol_scheme">fb589962745817369</string>
+    <string name="facebook_client_token">3665a907861e04e3a0fedc3733563b86</string>
+
+
+</resources>
